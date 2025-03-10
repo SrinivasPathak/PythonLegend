@@ -12,7 +12,7 @@ a = 3
 b = 1
 
 if a>b:
-    a=2
+    a=5
     b=4
     print (a)
     print (b)
